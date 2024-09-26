@@ -29,7 +29,7 @@ Projects related to leveraging the power of decentralization.
 |StreamLink|Live video streaming platform, powered by SuperteamNG built on solana|[StreamLink](https://x.com/use_stream)|
 |TokenThrill|TokenThrill is an on-chain marketing tool that automates campaign management and rewards for blockchain projects|[TokenThrill](https://x.com/Token_Thrill)|
 |BricksFi|Tokenizing real estate for fractional ownership, liquidity, and decentralized mortgage solutions. Invest and borrow on blockchain.|[BricksFi](https://x.com/bricksfi)|
-|Psyber|Bridging Mental Health & Web3 | Empowering you to relax, explore, and earn while addressing stress and anxiety.|[Psyber](https://x.com/PsyberHQ)|
+|Psyber|Bridging Mental Health & Web3,Empowering you to relax, explore, and earn while addressing stress and anxiety.|[Psyber](https://x.com/PsyberHQ)|
 |              |                     |              |
 
 <br>
