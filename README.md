@@ -40,7 +40,7 @@ Projects related to payment processing for various use-cases.
 Projects related to leveraging the power of decentralization.
 |     Name     |     Description     |     Team     |     Team Lead     |
 |--------------|---------------------|--------------|-------------------|
-|              |                     |              |                   |
+|Herwaree|Transforming Women’s Reproductive Health with a Smart, Engaging and Personalized Companion. |[Herwaree](https://x.com/Herwaree_)|[Benav](https://x.com/Benav_04)|
 |              |                     |              |                   |
 |              |                     |              |                   |
 |              |                     |              |                   |
@@ -57,7 +57,7 @@ Projects related to leveraging the power of decentralization.
 Projects related to improving the creation and monetization of digital collectibles.
 |     Name     |     Description     |     Team     |     Team Lead     |
 |--------------|---------------------|--------------|-------------------|
-|              |                     |https://x.com/BigBrandsMarket|                   |
+|              |                     |              |                   |
 |              |                     |              |                   |
 |              |                     |              |                   |
 |              |                     |              |                   |
