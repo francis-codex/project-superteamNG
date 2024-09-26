@@ -1,4 +1,4 @@
-# 🚀 SuperteamNG Solana Projects (Open-Source Edition)
+# 🚀 SuperteamNG Solana Projects
 
 A curated compilation of SuperteamNG Solana Projects
 
@@ -11,66 +11,230 @@ This repo is for SuperteamNG Solana Projects of all time:
 -   Under-development Projects(RADAR Hackathon), and lots more...
 
 
-Submit a PR if you have a project to add! Repositories on this list must be valid projects.
+Submit a PR if you have a project to add! Repositories on this list must be valid projects with all links required.
+
+## --By Categories
 
 <br>
 
 ## 💸 Payments
 Projects related to payment processing for various use-cases.
-| Name | Description | Categories | Team | Team Lead |
-|------|-------------|------------|------|-----------|
-|  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh    |             |            |      |           |
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+
+
 
 <br>
 
 ## 🫂 Consumer dApps
-Projects related to leveraging the power of decentralization. 
-| Name | Description | Categories | Team | Team Lead |
-|------|-------------|------------|------|-----------|
-|      |             |            |      |           |
+Projects related to leveraging the power of decentralization.
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
 
 <br>
 
 ## 🖼 NFTs
 Projects related to improving the creation and monetization of digital collectibles.
-| Name | Description | Categories | Team | Team Lead |
-|------|-------------|------------|------|-----------|
-|      |             |            |      |           |
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |https://x.com/BigBrandsMarket|                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
 
 <br>
 
 ## 📱 Mobile
 Projects related helping crypto go mainstream by building seamless mobile experience.
-| Name | Description | Categories | Team | Team Lead |
-|------|-------------|------------|------|-----------|
-|      |             |            |      |           |
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
 
 <br>
 
 ## 💰 DeFi
 Projects related to building financial system for the world to use.
-| Name | Description | Categories | Team | Team Lead |
-|------|-------------|------------|------|-----------|
-|      |             |            |      |           |
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
 
 <br>
 
 ## ⛓ DePin
 Projects related to leveraging DePin's vast usage and build efficient real-world infra on Solana.
-| Name | Description | Categories | Team | Team Lead |
-|------|-------------|------------|------|-----------|
-|      |             |            |      |           |
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
 
 <br>
 
 ## 🏗️ Infrastructure
 Projects and Tools that make Solana itself more durable and Robust.
-| Name | Description | Categories | Team | Team Lead |
-|------|-------------|------------|------|-----------|
-|      |             |            |      |           |
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
 
 ## 🛠 Developer Tooling
 Projects and Tools that make Solana itself more durable and Robust.
-| Name | Description | Categories | Team | Team Lead |
-|------|-------------|------------|------|-----------|
-|      |             |            |      |           |
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+
+
+<br>
+
+## 🫶 Web3 Social
+Projects empowering users to gain control of their own data.
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+
+<br>
+
+## 🫂 DAOs and Communities
+Projects enabling communities to form, grow and build things of value.
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+
+<br>
+
+## 🎮 Gaming
+Projects that help bring the next 1 billion people to Web3 by building games on Solana.
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+
+
+<br>
+
+## ReFi
+Projects leveraging blockchain technology to improve the physical world through ReFi.
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+
+
+<br>
+
+## 🤖 AI
+Projects that open up the power of Solana to millions of people by making it even easier to use.
+|     Name     |     Description     |     Team     |     Team Lead     |
+|--------------|---------------------|--------------|-------------------|
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
+|              |                     |              |                   |
