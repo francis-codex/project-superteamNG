@@ -17,6 +17,23 @@ Submit a PR if you have a project to add! Repositories on this list must be vali
 
 <br>
 
+## 🫂 Consumer dApps
+Projects related to leveraging the power of decentralization.
+|     Name     |     Description     |     Team     |
+|--------------|---------------------|--------------|
+|Herwaree|Transforming Women’s Reproductive Health with a Smart, Engaging and Personalized Companion. |[Herwaree](https://x.com/Herwaree_)|
+|FastHands|We Provide a Marketplace for Artisans and Craftsmen Visibility for   Fast and Seamless Hiring process.|[FastHands](https://x.com/FastHandsNG)|
+|Kaló|Fractional Bet matching for better game liquidity|[Kaló](https://x.com/k4l0x)|
+|Solcart|First escrow-powered SYP (Sell Your Property) marketplace on Solana.Buy and sell securely, shop directly from manufacturers & easily convert tokens to fiat.|[Solcart](https://x.com/solcartglobal)|
+|Setita|Orchestrating trust in every donation through Web3|[Setita](https://x.com/setita_)|
+|StreamLink|Live video streaming platform, powered by SuperteamNG built on solana|[StreamLink](https://x.com/use_stream)|
+|TokenThrill|TokenThrill is an on-chain marketing tool that automates campaign management and rewards for blockchain projects|[TokenThrill](https://x.com/Token_Thrill)|
+|BricksFi|Tokenizing real estate for fractional ownership, liquidity, and decentralized mortgage solutions. Invest and borrow on blockchain.|[BricksFi](https://x.com/bricksfi)|
+|Psyber|Bridging Mental Health & Web3 | Empowering you to relax, explore, and earn while addressing stress and anxiety.|[Psyber](https://x.com/PsyberHQ)|
+|              |                     |              |
+
+<br>
+
 ## 💸 Payments
 Projects related to payment processing for various use-cases.
 |     Name     |     Description     |     Team     |
@@ -30,26 +47,6 @@ Projects related to payment processing for various use-cases.
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
-|              |                     |              |
-
-
-
-<br>
-
-## 🫂 Consumer dApps
-Projects related to leveraging the power of decentralization.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|Herwaree|Transforming Women’s Reproductive Health with a Smart, Engaging and Personalized Companion. |[Herwaree](https://x.com/Herwaree_)|
-|FastHands|We Provide a Marketplace for Artisans and Craftsmen Visibility for   Fast and Seamless Hiring process.|[FastHands](https://x.com/FastHandsNG)|
-|Kaló|Fractional Bet matching for better game liquidity
-|[Kaló](https://x.com/k4l0x)|
-|Solcart|First escrow-powered SYP (Sell Your Property) marketplace on Solana.Buy and sell securely, shop directly from manufacturers & easily convert tokens to fiat.|[Solcart](https://x.com/solcartglobal)|
-|Setita|Orchestrating trust in every donation through Web3|[Setita](https://x.com/setita_)|
-|StreamLink|Live video streaming platform, powered by SuperteamNG built on solana|[StreamLink](https://x.com/use_stream)|
-|TokenThrill|TokenThrill is an on-chain marketing tool that automates campaign management and rewards for blockchain projects|[TokenThrill](https://x.com/Token_Thrill)|
-|BricksFi|Tokenizing real estate for fractional ownership, liquidity, and decentralized mortgage solutions. Invest and borrow on blockchain.|[BricksFi](https://x.com/bricksfi)|
-|Psyber|Bridging Mental Health & Web3 | Empowering you to relax, explore, and earn while addressing stress and anxiety.|[Psyber](https://x.com/PsyberHQ)|
 |              |                     |              |
 
 <br>
