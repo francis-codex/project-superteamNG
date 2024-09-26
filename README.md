@@ -41,8 +41,7 @@ Projects related to leveraging the power of decentralization.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |Herwaree|Transforming Women’s Reproductive Health with a Smart, Engaging and Personalized Companion. |[Herwaree](https://x.com/Herwaree_)|
-|FastHands|Fast Rising Artisan Marketplace. 
-We Provide a Marketplace for Artisans and Craftsmen Visibility for   Fast and Seamless Hiring process.|[FastHands](https://x.com/FastHandsNG)|
+|FastHands|We Provide a Marketplace for Artisans and Craftsmen Visibility for   Fast and Seamless Hiring process.|[FastHands](https://x.com/FastHandsNG)|
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
