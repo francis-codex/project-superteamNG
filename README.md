@@ -19,12 +19,12 @@ Submit a PR if you have a project to add! Repositories on this list must be vali
 Projects related to payment processing for various use-cases.
 | Name | Description | Categories | Team | Team Lead |
 |------|-------------|------------|------|-----------|
-|      |             |            |      |           |
+|  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh    |             |            |      |           |
 
 <br>
 
 ## 🫂 Consumer dApps
-Projects related to leveraging the power of decentralization.
+Projects related to leveraging the power of decentralization. 
 | Name | Description | Categories | Team | Team Lead |
 |------|-------------|------------|------|-----------|
 |      |             |            |      |           |
