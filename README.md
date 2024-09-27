@@ -13,7 +13,7 @@ This repo is for SuperteamNG Solana Projects of all time:
 
 Submit a PR if you have a project to add! Repositories on this list must be valid projects with all links required.
 
-## By Categories
+## By Categories(Building for RADAR)
 
 <br>
 
