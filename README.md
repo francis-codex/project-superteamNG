@@ -30,7 +30,17 @@ Projects related to leveraging the power of decentralization.
 |TokenThrill|TokenThrill is an on-chain marketing tool that automates campaign management and rewards for blockchain projects|[TokenThrill](https://x.com/Token_Thrill)|
 |BricksFi|Tokenizing real estate for fractional ownership, liquidity, and decentralized mortgage solutions. Invest and borrow on blockchain.|[BricksFi](https://x.com/bricksfi)|
 |Psyber|Bridging Mental Health & Web3,Empowering you to relax, explore, and earn while addressing stress and anxiety.|[Psyber](https://x.com/PsyberHQ)|
+|SolBox Music|SOLBOX is an online music streaming platform fused with the Solana Blockchain. We are all about rewards. Rewards for creators, listeners, and the ecosystem.|[SolBox Music](https://x.com/Solbox_Official)|
+|Paxx Labs|A Solana based payment gateway system for cross-border transactions across platforms.|[Paxx Labs](https://x.com/PaxxLabs)|
+|Crypto-Convo|Empowering seamless conferencing with PoAP Cnfts – turning every call into a rewarding experience.|[Crypto-Convo](https://x.com/CryptoConvo1)|
+|Lance_on_Sol|Building trust in freelance markets on Solana.Lancepoint is where reputation meets opportunity.|[Lance_on_Sol](https://x.com/Lancepoint1059)|
 |              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+
 
 <br>
 
@@ -174,7 +184,7 @@ Projects empowering users to gain control of their own data.
 Projects enabling communities to form, grow and build things of value.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
-|              |                     |              |
+|DeclanWork|Your Gateway to Tech and Web3 Freelancing : We connect Web3 startups and protocols to highly skilled technical and on-technical talents|[DeclanWork](https://x.com/declanwork)|
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
