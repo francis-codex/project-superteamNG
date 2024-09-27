@@ -13,7 +13,7 @@ This repo is for SuperteamNG Solana Projects of all time:
 
 Submit a PR if you have a project to add! Repositories on this list must be valid projects with all links required.
 
-## By Categories(Building for RADAR)
+## By Categories-(Building for RADAR Hackathon)
 
 <br>
 
@@ -40,6 +40,14 @@ Projects related to leveraging the power of decentralization.
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+
 
 
 <br>
@@ -58,6 +66,12 @@ Projects related to payment processing for various use-cases.
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+
 
 <br>
 
@@ -75,6 +89,12 @@ Projects related to improving the creation and monetization of digital collectib
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+
 
 <br>
 
@@ -109,6 +129,12 @@ Projects related to building financial system for the world to use.
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+
 
 <br>
 
@@ -117,6 +143,13 @@ Projects related to leveraging DePin's vast usage and build efficient real-world
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |Trash2Ca$h|Connecting you with the right recycling stations ♻️🌍encompassing GenAI with Blockchain|[Trash2Ca$h](https://x.com/trash2cash_)|
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
@@ -144,6 +177,13 @@ Projects and Tools that make Solana itself more durable and Robust.
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+
 
 ## 🛠 Developer Tooling
 Projects and Tools that make Solana itself more durable and Robust.
@@ -159,6 +199,12 @@ Projects and Tools that make Solana itself more durable and Robust.
 |              |                     |              |
 |              |                     |              |
 |              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+|              |                     |              |
+
 
 
 <br>
