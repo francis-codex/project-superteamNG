@@ -1,6 +1,6 @@
 # 🚀 SuperteamNG🇳🇬 Solana Projects
 
-<img src="st.jpg" width="50" height="50" alt="st-logo"> <img src="sol.jpg" width="50" height="50" alt="sol-logo">
+<img src="st.jpg" width="100" height="100" alt="st-logo"> <img src="sol.jpg" width="100" height="100" alt="sol-logo">
 
 A curated compilation of SuperteamNG Solana Projects
 
