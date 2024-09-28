@@ -25,7 +25,7 @@ Submit a PR if you have a project to add! Repositories on this list must be vali
 |--------------|-----------------------------|----------|---------|---------------|
 |Nomad|Nomad streamlines off ramping using existing TradFi rails.|[Now Nomadic-Labs](https://x.com/nomadxlabs)|DeFi|Third place Renaissance(2024)/First place Demo day winner(2024)|
 |SprintIQ|A web3 educational gaming platform with features that solidify knowledge in the blockchain through quiz test accompanied by automated incentives.|[SprintIQ](https://x.com/sprintIQ)|Gaming/Education|SuperteamDAO Builders Grant|
-|BlockRide|Blockride transforms fractional bus fleets ownership into real and reliable crypto assets, democratizing access to vehicle...|[BlockRide](https://x.com/BlockrideNFT)|DeFi|2x honorable mention (Renaissance & Hyperdrive)|
+|BlockRide|A mobility marketplace bringing equitable access to vehicle financing in Africa.|[BlockRide](https://x.com/BlockrideNFT)|DeFi|2x honorable mention (Renaissance & Hyperdrive)|
 |clusttr.io|Bringing utility and liquidity to real estate|[clusttr.io](https://x.com/clusttr_io)|DePin|Fifth Place kHyperdrive hackathon/Third place Demo day winner(2024)|
 |Mynt|Mynt allows businesses to mint NFTs to their customers based on real world conditions.Mynt allows businesses to mint NFTs.|--------------|NFTs|cHack top project|
 |FundusAI|FundusAI is Africa's First AI-Powered Ecosystem for Diabetics.Your One Stop Home For Personalized Diabetes Care Using AI.|[FundusAI](https://x.com/FundusAI)|AI|cHack top project|
@@ -232,10 +232,10 @@ Projects empowering users to gain control of their own data.
 Projects that open up the power of Solana to millions of people by making it even easier to use.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
+|Aperture|An AI powered transaction explainer API.|[Aperture](https://x.com/ApertureAI_)|
 |Favian|Create, Mint, Sell: AI Art made easy|[Favian](https://x.com/favian_garden)|
 |Portixel|Create and manage your design workflow into a shareable portfolio.|[Portixel](https://x.com/portixelai)|
 |Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|
-|Aperture|🏆 2nd Place hyperdrive hackathon (AI track)|[Aperture](https://x.com/ApertureAI_)|
 |SolcurateAI|Curating Contents that resonates for all Social Media Platforms|[SolcurateAI ](https://x.com/SolcurateAI)|
 |          |          |          |
 |          |          |          |
