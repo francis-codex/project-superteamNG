@@ -23,13 +23,16 @@ Submit a PR if you have a project to add! Repositories on this list must be vali
  
 |     Name     |         Description         |   Team   |  Track  |     Award     |
 |--------------|-----------------------------|----------|---------|---------------|
-|Nomad|Nomad streamlines off ramping using existing TradFi rails.|[Now Nomadic-Labs](https://x.com/nomadxlabs)|DeFi|Third - DeFi Track Renaissance(2024)|
+|Nomad|Nomad streamlines off ramping using existing TradFi rails.|[Now Nomadic-Labs](https://x.com/nomadxlabs)|DeFi|Third place Renaissance(2024)/First place Demo day winner(2024)|
 |SprintIQ|A web3 educational gaming platform with features that solidify knowledge in the blockchain through quiz test accompanied by automated incentives.|[SprintIQ](https://x.com/sprintIQ)|Gaming/Education|SuperteamDAO Builders Grant|
 |BlockRide|Blockride transforms fractional bus fleets ownership into real and reliable crypto assets, democratizing access to vehicle...|[BlockRide](https://x.com/BlockrideNFT)|DeFi|2x honorable mention (Renaissance & Hyperdrive)|
-|clusttr.io|Bringing utility and liquidity to real estate|[clusttr.io](https://x.com/clusttr_io)|Consumer-dApps|Hyperdrive hackathon winner|
+|clusttr.io|Bringing utility and liquidity to real estate|[clusttr.io](https://x.com/clusttr_io)|DePin|Fifth Place kHyperdrive hackathon/Third place Demo day winner(2024)|
 |Mynt|Mynt allows businesses to mint NFTs to their customers based on real world conditions.Mynt allows businesses to mint NFTs.|--------------|NFTs|cHack top project|
 |FundusAI|FundusAI is Africa's First AI-Powered Ecosystem for Diabetics.Your One Stop Home For Personalized Diabetes Care Using AI.|[FundusAI](https://x.com/FundusAI)|AI|cHack top project|
-
+|Aperture|An AI powered transaction explainer API.|[Aperture](https://x.com/ApertureAI_)|AI|2nd Place Hyperdrive hackathon|
+|TryKey Protocol|Securing DeFi Yield on Infrastructure using Sensors|[TryKey Protocol](https://x.com/trykeyprotocol)|DePin|Second place Demo day winner(2024)|
+|Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|AI|Fourth place Demo day winner(2024)|
+|StreamLink|Live video streaming platform, powered by SuperteamNG built on solana|[StreamLink](https://x.com/use_stream)|Consumer dApps|Fifth place Demo day winner(2024)|
 
 ## By Track (Building for RADAR Hackathon...)
 
@@ -149,6 +152,7 @@ Projects enabling communities to form, grow and build things of value.
 Projects related to leveraging DePin's vast usage and build efficient real-world infra on Solana.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
+|TryKey Protocol|Securing DeFi Yield on Infrastructure using Sensors|[TryKey Protocol](https://x.com/trykeyprotocol)|
 |Trash2Ca$h|Connecting you with the right recycling stations ♻️🌍encompassing GenAI with Blockchain|[Trash2Ca$h](https://x.com/trash2cash_)|
 |BEL Tech|♻️ Transforming waste management using Web 3|[BEL Tech](https://x.com/_beltech)|
 |GOcykle|A waste management platform that leverages Solana blockchain technology to create a more secure,transparent waste collection and disposal in Africa.|[GOcykle](https://x.com/GOcykle)|
