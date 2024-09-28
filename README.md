@@ -2,15 +2,15 @@
 
 <img src="st.jpg" width="150" height="150" alt="st-logo"> <img src="sol.jpg" width="150" height="150" alt="sol-logo">
 
-## A curated compilation of SuperteamNG Solana Projects
+## A curated compilation of SuperteamNG Solana Projects.
 
 This repo is for SuperteamNG Solana Projects of all time:
 
--   Under-development Projects (RADAR Hackathon)
--   Past-Hackathon Winners
--   Honorable Mentions
--   Demo day winners
--   Builders grant benefactors
+-   Under-development Projects (RADAR Hackathon).
+-   Past-Hackathon Winners.
+-   Honorable Mentions.
+-   Demo day winners.
+-   Builders grant benefactors.
 
 
 Submit a PR if you have a project to add! Repositories on this list must be valid projects with all links required, and under the right track.
@@ -37,7 +37,7 @@ Submit a PR if you have a project to add! Repositories on this list must be vali
 
 <br>
 
-## By Track (Building for RADAR Hackathon🛠)
+## By Track (Building for RADAR Hackathon📡).
 
 <br>
 
@@ -214,21 +214,6 @@ Projects and Tools that make Solana itself more durable and Robust.
 |          |          |          |
 |          |          |          |
 
-
-
-## 🫶 Web3 Social
-Projects empowering users to gain control of their own data.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|Cre8Fi|Cre8Fi is a Web3 social media platform built on Solana where creators earn as they create.|[Cre8Fi](https://x.com/Cre8Fi)|
-|Coinswag|Web3 Social Commerce Platform For Creators and Brands|[Coinswag](https://x.com/coinswagapp)|
-|          |          |          |
-|          |          |          |
-|          |          |          |
-|          |          |          |
-|          |          |          |
-
-
 <br>
 
 ## 🤖 AI
@@ -240,6 +225,20 @@ Projects that open up the power of Solana to millions of people by making it eve
 |Portixel|Create and manage your design workflow into a shareable portfolio.|[Portixel](https://x.com/portixelai)|
 |Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|
 |SolcurateAI|Curating Contents that resonates for all Social Media Platforms|[SolcurateAI ](https://x.com/SolcurateAI)|
+|          |          |          |
+|          |          |          |
+|          |          |          |
+|          |          |          |
+|          |          |          |
+
+<br>
+
+## 🫶 Web3 Social
+Projects empowering users to gain control of their own data.
+|     Name     |     Description     |     Team     |
+|--------------|---------------------|--------------|
+|Cre8Fi|Cre8Fi is a Web3 social media platform built on Solana where creators earn as they create.|[Cre8Fi](https://x.com/Cre8Fi)|
+|Coinswag|Web3 Social Commerce Platform For Creators and Brands|[Coinswag](https://x.com/coinswagapp)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
