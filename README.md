@@ -1,5 +1,7 @@
 # 🚀 SuperteamNG🇳🇬 Solana Projects
 
+<img src="st.jpg" width="50" height="50" alt="st-logo"> <img src="sol.jpg" width="50" height="50" alt="sol-logo">
+
 A curated compilation of SuperteamNG Solana Projects
 
 This repo is for SuperteamNG Solana Projects of all time:
