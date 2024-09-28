@@ -1,6 +1,6 @@
 # 🚀 SuperteamNG🇳🇬 Solana Projects
 
-<img src="st.jpg" width="200" height="200" alt="st-logo"> <img src="sol.jpg" width="200" height="200" alt="sol-logo">
+<img src="st.jpg" width="150" height="150" alt="st-logo"> <img src="sol.jpg" width="150" height="150" alt="sol-logo">
 
 A curated compilation of SuperteamNG Solana Projects
 
@@ -19,7 +19,7 @@ Submit a PR if you have a project to add! Repositories on this list must be vali
 
 <br>
 
-## 🫂 Consumer dApps
+## 🌐 Consumer dApps
 Projects related to leveraging the power of decentralization.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
