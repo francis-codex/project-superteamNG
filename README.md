@@ -2,7 +2,7 @@
 
 <img src="st.jpg" width="150" height="150" alt="st-logo"> <img src="sol.jpg" width="150" height="150" alt="sol-logo">
 
-A curated compilation of SuperteamNG Solana Projects
+## A curated compilation of SuperteamNG Solana Projects
 
 This repo is for SuperteamNG Solana Projects of all time:
 
@@ -75,7 +75,7 @@ Projects related to leveraging the power of decentralization.
 |BeHealth|Providing women and children with access to funds for health challenges and life saving procedures.|[BeHealth](https://x.com/betaahealth)|
 |POYNT |Navigate and earn by sharing real-time road insights.|[POYNT ](https://x.com/sol_poynt)|
 |Asset Square|Buy, Sell and Trade Real World Assets.|[Asset Square](https://x.com/Assetsquare_)|
-|Vividpass|Flex your access with tickets that bend, but never break. vividpass@gmail.com|[Vividpass](https://x.com/vividpass_)|
+|Vividpass|Flex your access with tickets that bend, but never break.|[Vividpass](https://x.com/vividpass_)|
 |Zillstate|Find and rent a home online nationwide without any agent problems||fast and stress-free, with an option to pay with crypto|[Zillstate](https://x.com/zillstate1)|
 |Creatorslab|Incentivizing quests and community- driven engagement to help builders and  creators overcome growth challenges |[Creatorslab](https://x.com/creatorslabseed)|
 |Fitness Space|Achieve your fitness and wellness goals with personalized meal plans, activity tracking and tailored, home workouts.|[Fitness Space](https://x.com/FitnessSpace_Ng)|
