@@ -21,8 +21,8 @@ Submit a PR if you have a project to add! Repositories on this list must be vali
  
  ## 🏆 Past-Hackathon Winners,Honorable Mentions,Demo day winners,Builders grant benefactors
  
-|     Name     |       Description       |   Team   |   Track   |     Award     |
-|--------------|-------------------------|----------|-----------|---------------|
+|     Name     |         Description         |   Team   |  Track  |     Award     |
+|--------------|-----------------------------|----------|---------|---------------|
 |Nomad|Nomad streamlines off ramping using existing TradFi rails.|[Now Nomadic-Labs](https://x.com/nomadxlabs)|DeFi|Third - DeFi Track Renaissance(2024)|
 |SprintIQ|A web3 educational gaming platform with features that solidify knowledge in the blockchain through quiz test accompanied by automated incentives.|[SprintIQ](https://x.com/sprintIQ)|Gaming/Education|SuperteamDAO Builders Grant|
 |BlockRide|Blockride transforms fractional bus fleets ownership into real and reliable crypto assets, democratizing access to vehicle...|[BlockRide](https://x.com/BlockrideNFT)|DeFi|2x honorable mention (Renaissance & Hyperdrive)|
