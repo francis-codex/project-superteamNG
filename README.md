@@ -56,136 +56,8 @@ Projects related to leveraging the power of decentralization.
 |Creatorslab|Incentivizing quests and community- driven engagement to help builders and  creators overcome growth challenges |[Creatorslab](https://x.com/creatorslabseed)|
 |Fitness Space|Achieve your fitness and wellness goals with personalized meal plans, activity tracking and tailored, home workouts.|[Fitness Space](https://x.com/FitnessSpace_Ng)|
 |Aeon|Building cutting-edge blockchain solutions. Currently innovating on solana with Aeon Protocol|[Aeon](https://x.com/1802labs)|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-
-
-
-
 
 <br>
-
-## 💸 Payments
-Projects related to payment processing for various use-cases.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|Solara Pay|Revolutionizing Solana, by making Payments seamlessly|[Solara Pay](https://x.com/thesolara)|
-|P2PFLIX|A blockchain-powered platform for decentralized daily contributions. Secure, transparent, and efficient for managing loans and debits.|[P2PFLIX](https://x.com/P2PFLIX)|
-|Cryptflex|Enabling  crypto earners with UsDC based instalment purchases|[Cryptflex](https://x.com/Cryptflex_)|
-|Peer Protocol|A Decentralized lending platform connecting users & businesses to a vast market of fully decentralized financial credit options.|[Peer Protocol](https://x.com/peer_protocol)|
-|coopcare|Fast transactions and transparent voting for cooperative members|[coopcare](https://x.com/realcoopcare)|
-|Cryptra Pay|Swiftly Pay your bills Using any Solana coin.|[Cryptra Pay](https://x.com/cryptraPay)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-
-
-<br>
-
-## 🖼 NFTs
-Projects related to improving the creation and monetization of digital collectibles.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|The BigBrands Market|Solana’s First Marketplace For Brand Identities. You can now create, buy, and sell the next big brands on   Solana as NFTs.|[BigBrandsMarket](https://x.com/BigBrandsMarket)|
-|Coalesy|Don't just attend, OWN the experience. Buy, sell & trade unique NFT tickets to Web3's hottest happenings.|[Coalesy](https://x.com/coalesynft)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-
-
-<br>
-
-## 💰 DeFi
-Projects related to building financial system for the world to use.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|Soliq bot|Trade your favorite tokens right from whatsapp, track wallets and much more with soliq bot on solana|[Soliq bot](https://x.com/soliqbot)|
-|fiatrouter|Secure Solana onboarding,Fiat to Crypto routing.|[fiatrouter](https://x.com/fiatrouter)|
-|wings|wings|[wings](https://x.com/wingsTravel_bot)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-
-
-<br>
-
-## ⛓ DePin
-Projects related to leveraging DePin's vast usage and build efficient real-world infra on Solana.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|Trash2Ca$h|Connecting you with the right recycling stations ♻️🌍encompassing GenAI with Blockchain|[Trash2Ca$h](https://x.com/trash2cash_)|
-|BEL Tech|♻️ Transforming waste management using Web 3|[BEL Tech](https://x.com/_beltech)|
-|GOcykle|A waste management platform that leverages Solana blockchain technology to create a more secure,transparent waste collection and disposal in Africa.|[GOcykle](https://x.com/GOcykle)|
-|LightlyTechnology|Reducing Energy Theft and Enhancing Efficiency Using Intelligent Distribution Box|[LightlyTechnology](https://x.com/lightlytec)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-
-
-<br>
-
-## 🏗️ Infrastructure
-Projects and Tools that make Solana itself more durable and Robust.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|Ravolo Protocol|Revolutionizing gaming with cross-game NFT assets. Empowering devs, exciting players. Your achievements, your assets, your multiverse.|[Ravolo Protocol](https://x.com/useravolo)|
-|BlinkVerse|Powering blink creation on Solana ecosystem.|[BlinkVerse](https://x.com/send_blink)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-
 
 ## 🛠 Developer Tooling
 Projects and Tools that make Solana itself more durable and Robust.
@@ -199,32 +71,19 @@ Projects and Tools that make Solana itself more durable and Robust.
 |Verxio|#1 Ads creator platform for web3 developers and brands.|[Verxio](https://x.com/verxioprotocol)|
 |BuyHere|An API providing a directory of products and sellers nearby.|[BuyHere](https://x.com/buyheretweets)|
 |Morlabs Protocol|Build faster with our SDK and API directory for Web3 developers.|[Morlabs Protocol](https://x.com/morlabs_)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-
-
 
 <br>
 
-## 🫶 Web3 Social
-Projects empowering users to gain control of their own data.
+## 💸 Payments
+Projects related to payment processing for various use-cases.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
-|Cre8Fi|Cre8Fi is a Web3 social media platform built on Solana where creators earn as they create.|[Cre8Fi](https://x.com/Cre8Fi)|
-|Coinswag|Web3 Social Commerce Platform For Creators and Brands|[Coinswag](https://x.com/coinswagapp)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
+|Solara Pay|Revolutionizing Solana, by making Payments seamlessly|[Solara Pay](https://x.com/thesolara)|
+|P2PFLIX|A blockchain-powered platform for decentralized daily contributions. Secure, transparent, and efficient for managing loans and debits.|[P2PFLIX](https://x.com/P2PFLIX)|
+|Cryptflex|Enabling  crypto earners with UsDC based instalment purchases|[Cryptflex](https://x.com/Cryptflex_)|
+|Peer Protocol|A Decentralized lending platform connecting users & businesses to a vast market of fully decentralized financial credit options.|[Peer Protocol](https://x.com/peer_protocol)|
+|coopcare|Fast transactions and transparent voting for cooperative members|[coopcare](https://x.com/realcoopcare)|
+|Cryptra Pay|Swiftly Pay your bills Using any Solana coin.|[Cryptra Pay](https://x.com/cryptraPay)|
 
 <br>
 
@@ -236,50 +95,54 @@ Projects enabling communities to form, grow and build things of value.
 |Betlify.Fun|Solana’s First No-Code Prediction Market Builder.  Create a custom prediction market, share your blinks and watch your engagements turn into real money.|[Betlify.Fun](https://x.com/betlifydotfun)|
 |ARK 🚢|Decentralized Protocol for Interoperable & Dynamic Network States|[ARK 🚢](https://x.com/ark_onsol)|
 |Trust Checker|Community-Driven Crypto Verification Platform|[Trust Checker](https://x.com/Trust_Checker)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
+
+<br>
+
+## ⛓ DePin
+Projects related to leveraging DePin's vast usage and build efficient real-world infra on Solana.
+|     Name     |     Description     |     Team     |
+|--------------|---------------------|--------------|
+|Trash2Ca$h|Connecting you with the right recycling stations ♻️🌍encompassing GenAI with Blockchain|[Trash2Ca$h](https://x.com/trash2cash_)|
+|BEL Tech|♻️ Transforming waste management using Web 3|[BEL Tech](https://x.com/_beltech)|
+|GOcykle|A waste management platform that leverages Solana blockchain technology to create a more secure,transparent waste collection and disposal in Africa.|[GOcykle](https://x.com/GOcykle)|
+|LightlyTechnology|Reducing Energy Theft and Enhancing Efficiency Using Intelligent Distribution Box|[LightlyTechnology](https://x.com/lightlytec)|
+
+<br>
+
+## 🖼 NFTs
+Projects related to improving the creation and monetization of digital collectibles.
+|     Name     |     Description     |     Team     |
+|--------------|---------------------|--------------|
+|The BigBrands Market|Solana’s First Marketplace For Brand Identities. You can now create, buy, and sell the next big brands on   Solana as NFTs.|[BigBrandsMarket](https://x.com/BigBrandsMarket)|
+|Coalesy|Don't just attend, OWN the experience. Buy, sell & trade unique NFT tickets to Web3's hottest happenings.|[Coalesy](https://x.com/coalesynft)|
 
 
 <br>
 
-## 🎮 Gaming
-Projects that help bring the next 1 billion people to Web3 by building games on Solana.
+## 💰 DeFi
+Projects related to building financial system for the world to use.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-
+|Soliq bot|Trade your favorite tokens right from whatsapp, track wallets and much more with soliq bot on solana|[Soliq bot](https://x.com/soliqbot)|
+|fiatrouter|Secure Solana onboarding,Fiat to Crypto routing.|[fiatrouter](https://x.com/fiatrouter)|
+|wings|wings|[wings](https://x.com/wingsTravel_bot)|
 
 <br>
 
-<!-- ## ReFi
-Projects leveraging blockchain technology to improve the physical world through ReFi.
+## 🏗️ Infrastructure
+Projects and Tools that make Solana itself more durable and Robust.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              | -->
+|Ravolo Protocol|Revolutionizing gaming with cross-game NFT assets. Empowering devs, exciting players. Your achievements, your assets, your multiverse.|[Ravolo Protocol](https://x.com/useravolo)|
+|BlinkVerse|Powering blink creation on Solana ecosystem.|[BlinkVerse](https://x.com/send_blink)|
 
 
+## 🫶 Web3 Social
+Projects empowering users to gain control of their own data.
+|     Name     |     Description     |     Team     |
+|--------------|---------------------|--------------|
+|Cre8Fi|Cre8Fi is a Web3 social media platform built on Solana where creators earn as they create.|[Cre8Fi](https://x.com/Cre8Fi)|
+|Coinswag|Web3 Social Commerce Platform For Creators and Brands|[Coinswag](https://x.com/coinswagapp)|
 
 <br>
 
@@ -289,13 +152,4 @@ Projects that open up the power of Solana to millions of people by making it eve
 |--------------|---------------------|--------------|
 |Favian|Create, Mint, Sell: AI Art made easy|[Favian](https://x.com/favian_garden)|
 |Portixel|Create and manage your design workflow into a shareable portfolio.|[Portixel](https://x.com/portixelai)|
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
-|              |                     |              |
 
