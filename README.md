@@ -34,7 +34,7 @@ Submit a PR if you have a project to add! Repositories on this list must be vali
 |Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|AI|Fourth place Demo day winner(2024)|
 |StreamLink|Live video streaming platform, powered by SuperteamNG built on solana|[StreamLink](https://x.com/use_stream)|Consumer dApps|Fifth place Demo day winner(2024)|
 
-## By Track (Building for RADAR Hackathon...)
+## By Track (Building for RADAR Hackathon🛠)
 
 <br>
 
