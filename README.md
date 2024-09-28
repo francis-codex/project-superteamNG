@@ -104,7 +104,7 @@ Projects and Tools that make Solana itself more durable and Robust.
 |Verxio|#1 Ads creator platform for web3 developers and brands.|[Verxio](https://x.com/verxioprotocol)|
 |BuyHere|An API providing a directory of products and sellers nearby.|[BuyHere](https://x.com/buyheretweets)|
 |Morlabs Protocol|Build faster with our SDK and API directory for Web3 developers.|[Morlabs Protocol](https://x.com/morlabs_)|
-|ThirdPal|Your go-to blockchain analytics tool | Comprehensive token analysis, wallet Insights & drainer checker|[ThirdPal](https://x.com/ThirdPal)|
+|ThirdPal|Your go-to blockchain analytics tool,Comprehensive token analysis, wallet Insights & drainer checker|[ThirdPal](https://x.com/ThirdPal)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
