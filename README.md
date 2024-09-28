@@ -59,10 +59,8 @@ Projects related to leveraging the power of decentralization.
 |Fitness Space|Achieve your fitness and wellness goals with personalized meal plans, activity tracking and tailored, home workouts.|[Fitness Space](https://x.com/FitnessSpace_Ng)|
 |Aeon|Building cutting-edge blockchain solutions. Currently innovating on solana with Aeon Protocol|[Aeon](https://x.com/1802labs)|
 |SolWish|SolWish helps you turn dreams into reality with customized wishlists and seamless funding via Solana. Let's make wishes come true!|[SolWish](https://x.com/solwish0)|
-|ALONG|Building an ad-subsidized public transit protocol for Developing Nations
-|[ALONG](https://x.com/along_app)|
-|ColoSach|Building an afrocentric image repository powered by Solana
-|[ColoSach](https://x.com/colosach)|
+|ALONG|Building an ad-subsidized public transit protocol for Developing Nations|[ALONG](https://x.com/along_app)|
+|ColoSach|Building an afrocentric image repository powered by Solana|[ColoSach](https://x.com/colosach)|
 |AnimeNexa|The ultimate Web3 Anime Hub|[AnimeNexa](https://x.com/AnimeNexa_ANX)|
 
 <br>
