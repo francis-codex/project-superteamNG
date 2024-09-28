@@ -15,11 +15,11 @@ This repo is for SuperteamNG Solana Projects of all time:
 
 Submit a PR if you have a project to add! Repositories on this list must be valid projects with all links required, and under the right track.
 
-## 🏆 Top Projects
+## 🏆 Top Projects.
 
 <br>
  
- ## 🏆 Past-Hackathon Winners,Honorable Mentions,Demo day winners,Builders grant benefactors
+ ## ✅ Past-Hackathon Winners, Honorable Mentions, Demo day winners and Builders grant benefactors.
  
 |     Name     |         Description         |   Team   |  Track  |     Award     |
 |--------------|-----------------------------|----------|---------|---------------|
@@ -70,7 +70,7 @@ Projects related to leveraging the power of decentralization.
 |Illusion Academy|Training and Recruitment Software for Web 3; We're doing it a lot better.|[Illusion Academy](https://x.com/AcademyIllusion)|
 |XBlinks|Customizable rewards for X users using Blinks, transforming how users claim rewards in the Web3 ecosystem.|[XBlinks](https://x.com/XBlinksOnSol)|
 |BeHealth|Providing women and children with access to funds for health challenges and life saving procedures.|[BeHealth](https://x.com/betaahealth)|
-|POYNT 🧭|Navigate and earn by sharing real-time road insights.|[POYNT 🧭](https://x.com/sol_poynt)|
+|POYNT |Navigate and earn by sharing real-time road insights.|[POYNT ](https://x.com/sol_poynt)|
 |Asset Square|Buy, Sell and Trade Real World Assets.|[Asset Square](https://x.com/Assetsquare_)|
 |Vividpass|Flex your access with tickets that bend, but never break. vividpass@gmail.com|[Vividpass](https://x.com/vividpass_)|
 |Zillstate|Find and rent a home online nationwide without any agent problems||fast and stress-free, with an option to pay with crypto|[Zillstate](https://x.com/zillstate1)|
@@ -137,7 +137,7 @@ Projects enabling communities to form, grow and build things of value.
 |--------------|---------------------|--------------|
 |DeclanWork|Your Gateway to Tech and Web3 Freelancing : We connect Web3 startups and protocols to highly skilled technical and on-technical talents|[DeclanWork](https://x.com/declanwork)|
 |Betlify.Fun|Solana’s First No-Code Prediction Market Builder.  Create a custom prediction market, share your blinks and watch your engagements turn into real money.|[Betlify.Fun](https://x.com/betlifydotfun)|
-|ARK 🚢|Decentralized Protocol for Interoperable & Dynamic Network States|[ARK 🚢](https://x.com/ark_onsol)|
+|ARK 🚢|Decentralized Protocol for Interoperable & Dynamic Network States|[ARK ](https://x.com/ark_onsol)|
 |Trust Checker|Community-Driven Crypto Verification Platform|[Trust Checker](https://x.com/Trust_Checker)|
 |          |          |          |
 |          |          |          |
@@ -153,7 +153,7 @@ Projects related to leveraging DePin's vast usage and build efficient real-world
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
 |TryKey Protocol|Securing DeFi Yield on Infrastructure using Sensors|[TryKey Protocol](https://x.com/trykeyprotocol)|
-|Trash2Ca$h|Connecting you with the right recycling stations ♻️🌍encompassing GenAI with Blockchain|[Trash2Ca$h](https://x.com/trash2cash_)|
+|Trash2Ca$h|Connecting you with the right recycling stations encompassing GenAI with Blockchain|[Trash2Ca$h](https://x.com/trash2cash_)|
 |BEL Tech|♻️ Transforming waste management using Web 3|[BEL Tech](https://x.com/_beltech)|
 |GOcykle|A waste management platform that leverages Solana blockchain technology to create a more secure,transparent waste collection and disposal in Africa.|[GOcykle](https://x.com/GOcykle)|
 |LightlyTechnology|Reducing Energy Theft and Enhancing Efficiency Using Intelligent Distribution Box|[LightlyTechnology](https://x.com/lightlytec)|
@@ -190,7 +190,7 @@ Projects related to building financial system for the world to use.
 |Soliq bot|Trade your favorite tokens right from whatsapp, track wallets and much more with soliq bot on solana|[Soliq bot](https://x.com/soliqbot)|
 |fiatrouter|Secure Solana onboarding,Fiat to Crypto routing.|[fiatrouter](https://x.com/fiatrouter)|
 |wings|wings|[wings](https://x.com/wingsTravel_bot)|
-|NectarFi🐝|Defi in one click|[NectarFi🐝](https://x.com/Nectar_finance)|
+|NectarFi|Defi in one click|[NectarFi](https://x.com/Nectar_finance)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
