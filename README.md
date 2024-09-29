@@ -13,10 +13,11 @@ This repo is for SuperteamNG Solana Projects of all time:
 -   Builders grant benefactors.
 
 
-Submit a PR if you have a project to add! Repositories on this list must be valid projects with all links required, and under the right track.
+Submit a PR if your project is missing or on the wrong track.
 <br>
-Major Tracks include - DePIN, DeFi, DAOs & Network States,payments, Consumer, Gaming, Developer Toolings,Infrastructure.
-
+Major Tracks: DePIN, DeFi, DAOs, Payments, Consumer, Gaming, Dev Tools, Infrastructure. 
+<br>
+Projects on this list must be valid, and on the right track.
 
 ## 🏆 Top Projects.
 
