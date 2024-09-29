@@ -84,6 +84,11 @@ Projects related to leveraging the power of decentralization.
 |ALONG|Building an ad-subsidized public transit protocol for Developing Nations|[ALONG](https://x.com/along_app)|
 |ColoSach|Building an afrocentric image repository powered by Solana|[ColoSach](https://x.com/colosach)|
 |AnimeNexa|The ultimate Web3 Anime Hub|[AnimeNexa](https://x.com/AnimeNexa_ANX)|
+|Cre8Fi|Cre8Fi is a Web3 social media platform built on Solana where creators earn as they create.|[Cre8Fi](https://x.com/Cre8Fi)|
+|Coinswag|Web3 Social Commerce Platform For Creators and Brands|[Coinswag](https://x.com/coinswagapp)|
+The BigBrands Market|Solana’s First Marketplace For Brand Identities. You can now create, buy, and sell the next big brands on   Solana as NFTs.|[BigBrandsMarket](https://x.com/BigBrandsMarket)|
+|Coalesy|Don't just attend, OWN the experience. Buy, sell & trade unique NFT tickets to Web3's hottest happenings.|[Coalesy](https://x.com/coalesynft)|
+|SolcurateAI|Curating Contents that resonates for all Social Media Platforms|[SolcurateAI ](https://x.com/SolcurateAI)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
@@ -105,6 +110,10 @@ Projects and Tools that make Solana itself more durable and Robust.
 |BuyHere|An API providing a directory of products and sellers nearby.|[BuyHere](https://x.com/buyheretweets)|
 |Morlabs Protocol|Build faster with our SDK and API directory for Web3 developers.|[Morlabs Protocol](https://x.com/morlabs_)|
 |ThirdPal|Your go-to blockchain analytics tool,Comprehensive token analysis, wallet Insights & drainer checker|[ThirdPal](https://x.com/ThirdPal)|
+|Aperture|An AI powered transaction explainer API.|[Aperture](https://x.com/ApertureAI_)|
+|Favian|Create, Mint, Sell: AI Art made easy|[Favian](https://x.com/favian_garden)|
+|Portixel|Create and manage your design workflow into a shareable portfolio.|[Portixel](https://x.com/portixelai)|
+|Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
@@ -167,23 +176,6 @@ Projects related to leveraging DePin's vast usage and build efficient real-world
 |          |          |          |
 |          |          |          |
 
-
-<br>
-
-## 🖼 NFTs
-Projects related to improving the creation and monetization of digital collectibles.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|The BigBrands Market|Solana’s First Marketplace For Brand Identities. You can now create, buy, and sell the next big brands on   Solana as NFTs.|[BigBrandsMarket](https://x.com/BigBrandsMarket)|
-|Coalesy|Don't just attend, OWN the experience. Buy, sell & trade unique NFT tickets to Web3's hottest happenings.|[Coalesy](https://x.com/coalesynft)|
-|          |          |          |
-|          |          |          |
-|          |          |          |
-|          |          |          |
-|          |          |          |
-
-
-
 <br>
 
 ## 💰 DeFi
@@ -213,36 +205,3 @@ Projects and Tools that make Solana itself more durable and Robust.
 |          |          |          |
 |          |          |          |
 |          |          |          |
-
-<br>
-
-## 🤖 AI
-Projects that open up the power of Solana to millions of people by making it even easier to use.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|Aperture|An AI powered transaction explainer API.|[Aperture](https://x.com/ApertureAI_)|
-|Favian|Create, Mint, Sell: AI Art made easy|[Favian](https://x.com/favian_garden)|
-|Portixel|Create and manage your design workflow into a shareable portfolio.|[Portixel](https://x.com/portixelai)|
-|Fable|An A.I. tool that boosts creativity for writers & brands|[Fable](https://x.com/meta_fable)|
-|SolcurateAI|Curating Contents that resonates for all Social Media Platforms|[SolcurateAI ](https://x.com/SolcurateAI)|
-|          |          |          |
-|          |          |          |
-|          |          |          |
-|          |          |          |
-|          |          |          |
-
-<br>
-
-## 🫶 Web3 Social
-Projects empowering users to gain control of their own data.
-|     Name     |     Description     |     Team     |
-|--------------|---------------------|--------------|
-|Cre8Fi|Cre8Fi is a Web3 social media platform built on Solana where creators earn as they create.|[Cre8Fi](https://x.com/Cre8Fi)|
-|Coinswag|Web3 Social Commerce Platform For Creators and Brands|[Coinswag](https://x.com/coinswagapp)|
-|          |          |          |
-|          |          |          |
-|          |          |          |
-|          |          |          |
-|          |          |          |
-
-
