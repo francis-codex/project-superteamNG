@@ -15,7 +15,7 @@ This repo is for SuperteamNG Solana Projects of all time:
 
 Submit a PR if you have a project to add! Repositories on this list must be valid projects with all links required, and under the right track.
 <br>
-Major Tracks include - DePIN, DeFi, DAOs & Network States,payments, Consumer, Developer Toolings,Infrastructure.
+Major Tracks include - DePIN, DeFi, DAOs & Network States,payments, Consumer, Gaming, Developer Toolings,Infrastructure.
 
 
 ## 🏆 Top Projects.
@@ -23,6 +23,7 @@ Major Tracks include - DePIN, DeFi, DAOs & Network States,payments, Consumer, De
 <br>
  
  ## ✅ Past-Hackathon Winners, Honorable Mentions, Demo day winners and Builders grant benefactors.
+ Over 10+ Top-Notch projects the ecosystem has produced so far...
  
 |     Name     |         Description         |   Team   |  Track  |     Award     |
 |--------------|-----------------------------|----------|---------|---------------|
@@ -40,6 +41,7 @@ Major Tracks include - DePIN, DeFi, DAOs & Network States,payments, Consumer, De
 <br>
 
 ## By Track (Building for RADAR Hackathon📡).
+Over 85+ projects Competing Across Diverse Tracks.
 
 <br>
 
