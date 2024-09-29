@@ -14,7 +14,7 @@ This repo is for SuperteamNG Solana Projects of all time:
 
 
 Submit a PR if you have a project to add! Repositories on this list must be valid projects with all links required, and under the right track.
-Tracks include - DePIN, DeFi, DAOs & Network States,payments, Consumer, Developer Toolings,Infrastructure.
+Major Tracks include - DePIN, DeFi, DAOs & Network States,payments, Consumer, Developer Toolings,Infrastructure.
 
 
 ## 🏆 Top Projects.
@@ -90,7 +90,7 @@ Projects related to leveraging the power of decentralization.
 The BigBrands Market|Solana’s First Marketplace For Brand Identities. You can now create, buy, and sell the next big brands on   Solana as NFTs.|[BigBrandsMarket](https://x.com/BigBrandsMarket)|
 |Coalesy|Don't just attend, OWN the experience. Buy, sell & trade unique NFT tickets to Web3's hottest happenings.|[Coalesy](https://x.com/coalesynft)|
 |SolcurateAI|Curating Contents that resonates for all Social Media Platforms|[SolcurateAI ](https://x.com/SolcurateAI)|
-|          |          |          |
+|denonymous|Supports Text, Images, Videos and Audio responses. Create and receive anonymous responses with denonymous.|[denonymous](https://x.com/denonymous_/)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
@@ -135,7 +135,6 @@ Projects related to payment processing for various use-cases.
 |coopcare|Fast transactions and transparent voting for cooperative members|[coopcare](https://x.com/realcoopcare)|
 |Cryptra Pay|Swiftly Pay your bills Using any Solana coin.|[Cryptra Pay](https://x.com/cryptraPay)|
 |Ribh|Collect Locally. Swap to USDC. Go Global. Ribh: A better way to collect payments for SMEs in Emerging Markets|[Ribh](https://x.com/ribhfinance)|
-|          |          |          |
 |          |          |          |
 |          |          |          |
 |          |          |          |
@@ -187,8 +186,8 @@ Projects related to building financial system for the world to use.
 |fiatrouter|Secure Solana onboarding,Fiat to Crypto routing.|[fiatrouter](https://x.com/fiatrouter)|
 |wings|wings|[wings](https://x.com/wingsTravel_bot)|
 |NectarFi|Defi in one click|[NectarFi](https://x.com/Nectar_finance)|
-|          |          |          |
-|          |          |          |
+|Dex sentinel|finding your token pairs with the speed of light|[Dex sentinel](https://x.com/dexsentinel)|
+|debonk|User-friendly Telegram trading miniapp with cross-chain swaps across major chains. Trade seamlessly with built-in anti-rug protection.|[debonk](https://x.com/debonkBot/)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
@@ -201,7 +200,7 @@ Projects and Tools that make Solana itself more durable and Robust.
 |--------------|---------------------|--------------|
 |Ravolo Protocol|Revolutionizing gaming with cross-game NFT assets. Empowering devs, exciting players. Your achievements, your assets, your multiverse.|[Ravolo Protocol](https://x.com/useravolo)|
 |BlinkVerse|Powering blink creation on Solana ecosystem.|[BlinkVerse](https://x.com/send_blink)|
-|          |          |          |
+|Roynek Technologies|Play more multi-player games with friends and loved ones.|[Roynek Technologies](https://x.com/RoynekGrowsCoin)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
