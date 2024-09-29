@@ -44,7 +44,6 @@ Major Tracks include - DePIN, DeFi, DAOs & Network States,payments, Consumer, Ga
 Over 85+ projects Competing Across Diverse Tracks.
 
 <br>
-
 ## 🌐 Consumer dApps
 Projects related to leveraging the power of decentralization.
 |     Name     |     Description     |     Team     |
