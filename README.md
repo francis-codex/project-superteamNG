@@ -95,7 +95,7 @@ The BigBrands Market|Solana’s First Marketplace For Brand Identities. You can 
 |Coalesy|Don't just attend, OWN the experience. Buy, sell & trade unique NFT tickets to Web3's hottest happenings.|[Coalesy](https://x.com/coalesynft)|
 |SolcurateAI|Curating Contents that resonates for all Social Media Platforms|[SolcurateAI ](https://x.com/SolcurateAI)|
 |denonymous|Supports Text, Images, Videos and Audio responses. Create and receive anonymous responses with denonymous.|[denonymous](https://x.com/denonymous_/)|
-|          |          |          |
+|Greenslip|We help businesses distribute and redeem digital vouchers seamlessly on-chain as NFTs. Empower your customers with secure, verifiable digital vouchers.|[Greenslip](https://x.com/use_greenslip)|
 |          |          |          |
 |          |          |          |
 |          |          |          |
