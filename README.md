@@ -132,7 +132,7 @@ Projects and Tools that make Solana itself more durable and Robust.
 Projects related to payment processing for various use-cases.
 |     Name     |     Description     |     Team     |
 |--------------|---------------------|--------------|
-|Solara Pay|Revolutionizing Solana, by making Payments seamlessly|[Solara Pay](https://x.com/thesolara)|
+|Solara Pay|Enhancing Companies Workflow with Instant Payroll Disbursement|[Solara Pay](https://x.com/thesolara)|
 |P2PFLIX|A blockchain-powered platform for decentralized daily contributions. Secure, transparent, and efficient for managing loans and debits.|[P2PFLIX](https://x.com/P2PFLIX)|
 |Cryptflex|Enabling  crypto earners with UsDC based instalment purchases|[Cryptflex](https://x.com/Cryptflex_)|
 |Peer Protocol|A Decentralized lending platform connecting users & businesses to a vast market of fully decentralized financial credit options.|[Peer Protocol](https://x.com/peer_protocol)|
